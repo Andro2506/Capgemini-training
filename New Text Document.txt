@@ -4,6 +4,7 @@ class B{
 			System.out.print(i+" ");
 		}
 		System.out.println();
-		System.out.println("HI, this is done in training.")
+		System.out.println("HI, this is done in training.");
+		System.out.println("HI, this is pushed in my folder.")
 	}
 }
